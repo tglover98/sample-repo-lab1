@@ -6,3 +6,5 @@ hello git
 
 
 line 2 on another branch
+
+line 3 from browser
